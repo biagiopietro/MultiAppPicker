@@ -16,8 +16,6 @@ Screenshot
 :-------------------------
 ![](https://i.imgur.com/Fehq3TW.jpg?1) ![](https://i.imgur.com/Lh46Yfk.jpg?2)
 
-
-
 ## Install
 
 Add this to your project build.gradle
@@ -83,7 +81,21 @@ Then listen for results:
 ```
 
 ### Themeing
-You can change the color of MultiAppPicker in the file "colors.xml" o in "styles.xml"
+MultiAppPicker has a default theme called Azure, however you can use a custom theme if you wish by using both the builder calls above and using styles:
+
+```xml
+    <style name="MyCustomPickerTheme" parent="MultiAppPicker.Azure">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="mapToolbarTheme">@style/MyCustomToolbarTheme</item>
+        <item name="mapListPopupWindowStyleTheme">@style/MyCustomToolbarTheme</item>
+    </style>
+
+    <style name="MyCustomToolbarTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:textColorPrimary">@color/colorAccent</item>
+        <item name="android:textColorSecondary">@color/colorAccent</item>
+    </style>
+```
 
 This can then be set in the builder above using **.theme(int)**
 

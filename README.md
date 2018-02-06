@@ -32,9 +32,10 @@ allprojects {
 Add this to your module build.gradle
 
 ``` gradle
-		dependencies {
-    	        compile 'com.github.biagiopietro:MultiAppPicker:8abd139616'
-    	}
+    dependencies {
+        compile 'com.github.biagiopietro:MultiAppPicker:1.0'
+    }
+
 ```
 ### Usage
 

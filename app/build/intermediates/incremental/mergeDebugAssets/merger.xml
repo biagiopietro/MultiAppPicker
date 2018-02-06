@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":multiapppicker"><source path="/home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/assets"/><source path="/home/biagio/AndroidStudioProjects/MultiAppPicker/app/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/debug/assets"/></dataSet></merger>

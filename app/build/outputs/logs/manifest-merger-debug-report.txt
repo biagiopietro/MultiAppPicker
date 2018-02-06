@@ -1,0 +1,180 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-21:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/biagio/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/f778dd6270017c6e5cb6d6e2203600af/AndroidManifest.xml:2:1-13:12
+MERGED from [com.l4digital.fastscroll:fastscroll:1.0.4] /home/biagio/.gradle/caches/transforms-1/files-1.1/fastscroll-1.0.4.aar/77d442aae0dedde14d2b0ea8c5367b60/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/63ccf6b609a6a2db3c7d22bb6ca721da/AndroidManifest.xml:15:1-21:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7b36244d46a99199f2759736679e68c7/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/biagio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/188abd65772b51bb8a9ce845e4c5f816/AndroidManifest.xml:2:1-11:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:11-53
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:3:5-63
+application
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-19:19
+MERGED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-19:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/biagio/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/f778dd6270017c6e5cb6d6e2203600af/AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/biagio/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/f778dd6270017c6e5cb6d6e2203600af/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/biagio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/188abd65772b51bb8a9ce845e4c5f816/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/biagio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/188abd65772b51bb8a9ce845e4c5f816/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.mcsoft.multiapppickerexample.MainActivity
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:14:17-68
+	android:name
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:16:17-76
+	android:name
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+MERGED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/biagio/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/f778dd6270017c6e5cb6d6e2203600af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /home/biagio/.gradle/caches/transforms-1/files-1.1/materialsearchview-1.4.0.aar/f778dd6270017c6e5cb6d6e2203600af/AndroidManifest.xml:7:5-9:41
+MERGED from [com.l4digital.fastscroll:fastscroll:1.0.4] /home/biagio/.gradle/caches/transforms-1/files-1.1/fastscroll-1.0.4.aar/77d442aae0dedde14d2b0ea8c5367b60/AndroidManifest.xml:23:5-25:41
+MERGED from [com.l4digital.fastscroll:fastscroll:1.0.4] /home/biagio/.gradle/caches/transforms-1/files-1.1/fastscroll-1.0.4.aar/77d442aae0dedde14d2b0ea8c5367b60/AndroidManifest.xml:23:5-25:41
+MERGED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:21:5-23:78
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/63ccf6b609a6a2db3c7d22bb6ca721da/AndroidManifest.xml:19:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.0.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/rxandroid-2.0.1.aar/63ccf6b609a6a2db3c7d22bb6ca721da/AndroidManifest.xml:19:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7b36244d46a99199f2759736679e68c7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7b36244d46a99199f2759736679e68c7/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/biagio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/188abd65772b51bb8a9ce845e4c5f816/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/biagio/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/188abd65772b51bb8a9ce845e4c5f816/AndroidManifest.xml:5:5-7:41
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		ADDED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+		INJECTED from /home/biagio/AndroidStudioProjects/MultiAppPicker/app/src/main/AndroidManifest.xml
+activity#com.mcsoft.multiapppicker.MultiAppPickerActivity
+ADDED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-18:20
+	android:label
+		ADDED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-49
+	android:name
+		ADDED from [:multiapppicker] /home/biagio/AndroidStudioProjects/MultiAppPicker/multiapppicker/build/intermediates/manifests/full/debug/AndroidManifest.xml:16:13-76
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/45be74095e73ada495d39762276f4ea5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7b36244d46a99199f2759736679e68c7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/7b36244d46a99199f2759736679e68c7/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/efeb4fd35c407a3c69b24ecc854ba034/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/f828ccb23b0fe5a5c8f2a88ca22eeccc/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/e44bad67855b176e0aa0861a5ad9215e/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/a181c629306b73b2c50e1bec8ecc452a/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/a854a83652cb082a09ef5374462a8f4e/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/b16fd15f4c687853ea2861a5938398ff/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/293a21026f8b016c46a00bb2c3aebf6c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/ab19e3c0fe546b65cfad46ebf4f6809d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/d6094d65d7a359e1509690d1e398c5f5/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/biagio/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e8358302e930952005f5ae5a6f3998c1/AndroidManifest.xml:26:9-47

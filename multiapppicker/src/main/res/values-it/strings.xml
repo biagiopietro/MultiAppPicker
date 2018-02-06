@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiAppPicker</string>
+    <string name="picker_title">Seleziona un\'applicazione</string>
+    <string name="tv_select_btn_text_disabled">Seleziona</string>
+    <string name="tv_select_btn_text_enabled">Seleziona</string>
+</resources>

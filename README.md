@@ -14,7 +14,7 @@ A simple, material design multi-app picker using RecyclerView and Alphabetical F
 
 Screenshot
 :-------------------------
-![](https://i.imgur.com/Fehq3TW.jpg) ![](https://i.imgur.com/Lh46Yfk.jpg)
+![](https://i.imgur.com/Fehq3TW.jpg?1) ![](https://i.imgur.com/Lh46Yfk.jpg?2)
 
 
 
